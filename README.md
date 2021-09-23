@@ -1,4 +1,24 @@
-# Thanks for checking out my Github Page
+
+![oh-hi](https://user-images.githubusercontent.com/66656063/134512138-6cc13b18-99cd-4a55-af4f-74b111928f9d.gif)
+
+
+
+
+# Hey There, I'm nate. Thanks for checking out my GitHub 
+
+I'm a recent graduate from Flatiron School, New York, Data Science. While there I worked on some pretty cool projects which you can find pinned to this front page. 
+
+🔭 I’m currently working on a unique real-world project that's more than 10 years in the making! It's titled **The-Great-Experiment** Feel free to look at it
+
+![just-look-at-it](https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif)
+
+🌱 I’m currently learning SQL
+
+💬 Ask me about The Great Experiment and my goals for the future
+
+📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/)
+
+Also check out my :black_nib: [Blog](https://natewalter.medium.com/)
 
 
 <!--
@@ -14,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![just-look-at-it](https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif)
 -->
