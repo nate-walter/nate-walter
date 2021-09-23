@@ -6,7 +6,7 @@
 
 # Hey There, I'm nate. Thanks for checking out my GitHub 
 
-## I'm a recent graduate from Flatiron School, New York, Data Science. While there I worked on some pretty cool projects which you can find pinned to this front page. 
+## I'm a recent graduate from Flatiron School, New York, Data Science, where I worked on some pretty cool projects that you can find pinned below. 
 
 ### 🔭 I’m currently working on a unique real-world project that's more than 10 years in the making! It's titled ***The-Great-Experiment*** Feel free to look at it
 
