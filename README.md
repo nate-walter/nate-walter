@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66656063/134512138-6cc13b18-99cd-4a55-af4f-74b111928f9d.gif" width="550" height="300"/>
+  <img src="https://user-images.githubusercontent.com/66656063/134512138-6cc13b18-99cd-4a55-af4f-74b111928f9d.gif" width="500" height="275"/>
 </p>
 
 
@@ -9,7 +9,10 @@
 ## :atom: I’m currently working on a unique real-world project that's over a decade in the making! It's titled ***The-Great-Experiment*** and is pinned down there as well – Would you look at it
 
 
-![just-look-at-it](https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif)[just look at it](https://github.com/nate-walter/The-Great-Experiment)
+
+<img src="https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif" widtth="250" height="175">
+
+[Would you just look at it](https://github.com/nate-walter/The-Great-Experiment/)
 
 ### 🌱 I’m gaining experience in SQL
 
