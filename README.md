@@ -4,9 +4,9 @@
 </p>
 
 
-# Thanks for checking out my GitHub. I'm nate, a recent graduate from Flatiron School, New York, Data Science, where I worked on some pretty cool projects. My Capstone was my favorite, by far. It's an Image Classification Transfer-Learning Neural Network – check it out. It's pinned below (Diabetic-Retinopathy-Neural-Network).
+# Thanks for checking out my GitHub. I'm nate, a recent graduate from Flatiron School, New York, Data Science, where I worked on some pretty cool projects. My Capstone was my favorite, by far. It's a Transfer-Learning Neural Network (it's pinned below: Diabetic-Retinopathy-Neural-Network). My whole Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack. I'm also pretty advanced with Git. My Python skills are up there, I'm into Object Oriented Programming at the moment. Eveything's starting to make sense and come together. Along with daily improvement in Python, I'm mastering SQL. Balancing those two subjects, meetings, working out, and my ongoing job search leaves just enough time for Neural Networks. 
 
-## :atom: I’m currently working on a unique real-world project that's over a decade in the making! It's titled ***The-Great-Experiment*** and is pinned down below as well – I'd be happy if you'd look at it
+## :atom: I’m currently working on a unique real-world project that's ***over a decade in the making!*** It's titled **The-Great-Experiment** and is pinned down below as well – I'd be honored if you took a look at it
 
 
 
