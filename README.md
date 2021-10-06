@@ -13,7 +13,7 @@
 
 ### 🌱 Blossoming in SQL
 
-### 💬 Ask me about ***The Great Experiment*** and my goals for the future
+### 💬 Ask me about ***The-Great-Experiment*** and my goals for the future
 
 ### 📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/)
 
