@@ -7,15 +7,9 @@
 ## Thanks for checking out my GitHub. I'm nate, a recent graduate from Flatiron School, New York, Data Science, where I worked on some pretty cool projects. My Capstone was my favorite, by far. It's a Transfer-Learning Neural Network (Find it under: Diabetic-Retinopathy-Neural-Network). 
 ## My whole Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack. I'm also pretty advanced with Git. My Python skills are up there, I'm into Object Oriented Programming at the moment. Eveything's starting to make sense and come together. Along with daily improvement in Python, I'm mastering SQL. Balancing those two subjects, meetings, working out, and my ongoing job search leaves just enough time for Neural Networks. 
 
-# :atom: I’m currently working on a unique real-world project that's ***over a decade in the making!*** It's titled **The-Great-Experiment** and is pinned below – Take a look at it
+# :atom: I’m currently working on a unique real-world project that's ***over a decade in the making!*** It's titled **The-Great-Experiment**  <img src="https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif" widtth="250" height="175"> [Take a look at it](https://github.com/nate-walter/The-Great-Experiment/)
 
-
-
-<img src="https://user-images.githubusercontent.com/66656063/134506208-1a175900-05e8-4b8b-88b0-20c7b5a44bf6.gif" widtth="250" height="175">
-
-[Would you just look at it](https://github.com/nate-walter/The-Great-Experiment/)
-
-### 🌱 I’m gaining experience in SQL
+### 🌱 Growing in experience in SQL
 
 ### 💬 Ask me about ***The Great Experiment*** and my goals for the future
 
