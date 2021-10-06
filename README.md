@@ -8,7 +8,7 @@
 ## My whole Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack. I'm also pretty advanced with Git. My Python skills are up there, I'm into Object Oriented Programming at the moment. Eveything's starting to make sense and come together. Along with daily improvement in Python, I'm mastering SQL. Balancing those two subjects, meetings, working out, and my ongoing job search leaves just enough time for Neural Networks. 
 
 
-# :atom: I’m currently working on a unique real-world project that's ***over a decade in the making!*** It's titled **The-Great-Experiment**  <img src="https://user-images.githubusercontent.com/66656063/136292873-52e09c9c-454e-4ec0-8ba8-11035ffa9c5b.gif" widtth="250" height="175"> [Take a look at it](https://github.com/nate-walter/The-Great-Experiment/)
+# :atom: I’m currently working on a unique real-world project that's ***over a decade in the making!*** It's titled **The-Great-Experiment**  <img src="https://user-images.githubusercontent.com/66656063/136293229-18c6429a-df5e-40c5-a31a-5dad8a0036da.gif" widtth="250" height="175"> [Take a look at it](https://github.com/nate-walter/The-Great-Experiment/)
 
 
 ### 🌱 Growing in experience in SQL
