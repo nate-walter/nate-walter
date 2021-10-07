@@ -11,7 +11,7 @@
 ## :atom: Take a look at [The-Great-Experiment](https://github.com/nate-walter/The-Great-Experiment/)      <img src="https://user-images.githubusercontent.com/66656063/136293229-18c6429a-df5e-40c5-a31a-5dad8a0036da.gif" widtth="250" height="175">                                             
 
 
-### 🌱 Blossoming in SQL
+### 🌱 Mastering SQL
 
 ### 💬 Ask me about ***The-Great-Experiment*** and my goals for the future
 
