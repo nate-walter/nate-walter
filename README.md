@@ -4,8 +4,8 @@
 </p>
 
 
-## Thanks for checking out my GitHub. I'm nate, a recent graduate from Flatiron School, New York, Data Science, where I worked on some pretty cool projects. My favorite, by far, was my capsone project. It's a Transfer-Learning Neural Network (Find it under: Diabetic-Retinopathy-Neural-Network). 
-## The Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack. I'm also pretty advanced with Git. My Python skills are up there, I'm mastering SQL and on my journey to become an AWS Solutions Architect. 
+## Thanks for checking out my GitHub. I'm nate, a recent Data Science graduate from Flatiron School, where I worked on some pretty cool projects. My favorite by far being my capsone project. It's a Transfer-Learning Neural Network (Find it under: Diabetic-Retinopathy-Neural-Network). 
+## The Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack, and now am proficeint with Microsoft Teams. I'm also pretty advanced with Git. My Python skills are up there, I'm mastering SQL and am on my journey to becomming an AWS Solutions Architect. 
 
 <!-- ## :atom: Take a look at [The-Great-Experiment](https://github.com/nate-walter/The-Great-Experiment/)      <img src="https://user-images.githubusercontent.com/66656063/136293229-18c6429a-df5e-40c5-a31a-5dad8a0036da.gif" widtth="250" height="175">                                              -->
 
@@ -15,8 +15,6 @@
 
 
 ### 🌱 Mastering SQL
-
-### 💬 Ask me about ***The-Great-Experiment*** and my goals for the future
 
 ### 📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/)
 
