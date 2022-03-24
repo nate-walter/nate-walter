@@ -7,7 +7,7 @@
 ## Thanks for checking out my GitHub. I'm nate, a recent Data Science graduate from Flatiron School, where I worked on some pretty cool projects. My favorite by far being my capsone project. It's a Transfer-Learning Neural Network (Find it under: Diabetic-Retinopathy-Neural-Network). 
 ## The Bootcamp was done remotely, so I'm steeped in Zoom meetings and Slack, and now am proficeint with Microsoft Teams. I'm also pretty advanced with Git. My Python skills are up there, I'm mastering SQL and am on my journey to becomming an AWS Solutions Architect. 
 
-## You might find my [Scratch-Off-Science] experiment interesting(https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)
+## Take a look at my experiment - [Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)
 
 <!-- ## :atom: Take a look at [The-Great-Experiment](https://github.com/nate-walter/The-Great-Experiment/)      <img src="https://user-images.githubusercontent.com/66656063/136293229-18c6429a-df5e-40c5-a31a-5dad8a0036da.gif" widtth="250" height="175">                                              -->
 
