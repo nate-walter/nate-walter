@@ -3,8 +3,9 @@
   <img src="https://user-images.githubusercontent.com/66656063/134512138-6cc13b18-99cd-4a55-af4f-74b111928f9d.gif" width="500" height="275"/>
 </p>
 
-
-## /T Thanks for checking out my GitHub.
+<div align="center">
+  ## Thanks for checking out my GitHub.
+</div>
 
 ## Take a look at my lotter ticket experiment - [Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)
 
