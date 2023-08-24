@@ -5,10 +5,10 @@
 
 <div align="center">
   Thanks for checking out my GitHub.
+</div>
+<div align="center">
   ----------------------------------
 </div>
-
-
 
 ## Take a look at my lotter ticket experiment - [Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)
 
