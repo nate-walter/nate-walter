@@ -19,7 +19,7 @@
 
 
 
-### 🌱 Mastering SQL
+### 🌱 Mastering Python, SQL, ML & AI
 
 ### 📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/)
 
