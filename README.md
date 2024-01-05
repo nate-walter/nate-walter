@@ -23,7 +23,7 @@
 
 <!-- ### 📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/) -->
 
-### Also check out my :black_nib: [Blog](https://natewalter.medium.com/)
+### Check out my :black_nib: [Blog](https://natewalter.medium.com/)
 
 
 <!--
