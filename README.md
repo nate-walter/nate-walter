@@ -10,7 +10,7 @@
   ----------------------------------
 </div>
 
-## Take a look at my lottery ticket experiment - [Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)
+<!-- ## Take a look at my lottery ticket experiment - [Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) ![scratch-off-2](https://user-images.githubusercontent.com/66656063/143147957-830551a8-8726-47be-9650-7d69b9b6afa9.gif)>
 
 <!-- ## :atom: Take a look at [The-Great-Experiment](https://github.com/nate-walter/The-Great-Experiment/)      <img src="https://user-images.githubusercontent.com/66656063/136293229-18c6429a-df5e-40c5-a31a-5dad8a0036da.gif" widtth="250" height="175">                                              -->
 
