@@ -19,11 +19,11 @@
 
 
 
-### 🌱 Mastering Python, SQL, ML & AI
+<!-- ### 🌱 Mastering Python, SQL, ML & AI>
 
 <!-- ### 📫 How to reach me: natejwalter@gmail.com | [LinkedIn](https://www.linkedin.com/in/the-nate-walter/) -->
 
-### Check out my :black_nib: [Blog](https://natewalter.medium.com/)
+<!-- ### Check out my :black_nib: [Blog](https://natewalter.medium.com/)>
 
 
 <!--
